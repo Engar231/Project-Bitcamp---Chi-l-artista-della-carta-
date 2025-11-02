@@ -1,4 +1,4 @@
-# Project-Bitcamp---Chi-l-artista-della-carta-
+# Bitcamp_End_Project/EasyOCR,Tesseract,Read_TGC_Artist
 Progetto di fine corso per Bitcamp
 Il programma utilizza pytesseract & easyocr per inviduare, tramite crop selezionato a mano, il punto in cui trovare il nome illustratore e scriverlo nell'interfaccia. (Main.py)
 All'interno del dataset trovere i modelli addestrati, sia per le macro aree (One piece, magic, digimon etc etc) e uno a parte per le micro aree (tutte le briscole).
